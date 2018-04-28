@@ -11,7 +11,7 @@ You can install Conda for python which resolves all the dependencies for machine
 
 ### Python  Implementation
 
-1) Dataset- Extended MNIST dataset (letters)
+1) Dataset- DHCD (Devnagari Character Dataset)
 2) Images of size 32 X 32
 4) Convolutional Network Support added.
 
