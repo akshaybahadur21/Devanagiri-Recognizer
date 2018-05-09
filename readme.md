@@ -6,7 +6,16 @@ This code helps you classify different alphabets of hindi language (Devanagiri) 
 You can install Conda for python which resolves all the dependencies for machine learning.
 
 ### Description
+This code successfully recognizes hindi characters.
 
+### Technique Used
+
+I have used convolutional neural networks.
+I am using Tensorflow as the framework and Keras API for providing a high level of abstraction.
+
+### Architecture
+
+#### CONV2D --> MAXPOOL --> CONV2D --> MAXPOOL -->FC -->Softmax--> Classification
 
 
 ### Python  Implementation
