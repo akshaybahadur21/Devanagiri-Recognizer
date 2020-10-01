@@ -16,6 +16,7 @@ I have used convolutional neural networks.
 I am using Tensorflow as the framework and Keras API for providing a high level of abstraction.
 
 ### Architecture
+It will recognize Hindi alphabets
 
 #### CONV2D --> MAXPOOL --> CONV2D --> MAXPOOL -->FC -->Softmax--> Classification
 
